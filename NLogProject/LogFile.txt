@@ -1,0 +1,2 @@
+﻿2021-07-27 08:11:24.9488|DEBUG|NLogProject.NLog|Debug successfull: sum()
+2021-07-27 08:11:25.2095|DEBUG|NLogProject.NLog|Sum method passed, Result30
